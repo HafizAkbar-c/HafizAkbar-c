@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently attending university<br>I'm learning Unity<br>I have an interest in game development<br>
+# About Me:
+Hi there. All my code/project archive is here(it's empty).
 
 
 # 💻 Tech Stack:
